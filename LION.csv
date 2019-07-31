@@ -1,0 +1,239 @@
+,organization,city,state,lat_long,latitude,longitude
+0,Tucson Sentinel,Tucson,Arizona,"[32.2226066, -110.9747108]",32.2226066,-110.9747108
+1,Magnolia Reporter,Magnolia,Arkansas,"[37.09024, -95.712891]",37.09024,-95.712891
+2,Alhambra Source,Alhambra,California,"[34.095287, -118.1270146]",34.095287,-118.1270146
+3,Benito Link,Hollister,California,"[36.06309600000001, -95.881996]",36.06309600000001,-95.881996
+4,Berkeleyside,Berkeley,California,"[37.8715226, -122.273042]",37.8715226,-122.273042
+5,By the Bay,San Francisco,California,"[37.7749295, -122.4194155]",37.7749295,-122.4194155
+6,Coachella Valley Independent,Cathedral City,California,"[33.7805388, -116.4668036]",33.7805388,-116.4668036
+7,Coronado Times,Coronado,California,"[32.6858853, -117.1830891]",32.6858853,-117.1830891
+8,Escondido Grapevine,Escondido,California,"[33.1192068, -117.086421]",33.1192068,-117.086421
+9,Eville Eye,Emeryville,California,"[37.8395028, -122.2892278]",37.8395028,-122.2892278
+10,Lake County News,Lakeport,California,"[39.0429506, -122.9158293]",39.0429506,-122.9158293
+11,Larchmont Buzz,Los Angeles,California,"[34.0522342, -118.2436849]",34.0522342,-118.2436849
+12,Long Beach Post,Long Beach,California,"[33.7700504, -118.1937395]",33.7700504,-118.1937395
+13,Mendocino Voice,Ukiah,California,"[39.1501709, -123.2077831]",39.1501709,-123.2077831
+14,Menifee 24-7,Menifee,California,"[33.6971468, -117.185294]",33.6971468,-117.185294
+15,Mission Local,San Francisco,California,"[37.7749295, -122.4194155]",37.7749295,-122.4194155
+16,Noozhawk,Santa Barbara,California,"[34.4208305, -119.6981901]",34.4208305,-119.6981901
+17,OC Indy,Long Beach,California,"[33.7700504, -118.1937395]",33.7700504,-118.1937395
+18,On the 101,Central coast,California,"[35.3611, -119.16700000000003]",35.3611,-119.16700000000003
+19,San Francisco Public Press,San Francisco,California,"[37.7749295, -122.4194155]",37.7749295,-122.4194155
+20,The Eastsider,Los Angeles,California,"[34.0522342, -118.2436849]",34.0522342,-118.2436849
+21,Times of San Diego,San Diego,California,"[32.715738, -117.1610838]",32.715738,-117.1610838
+22,Voice of Orange County,Santa Ana,California,"[33.7454725, -117.867653]",33.7454725,-117.867653
+23,Voices: River City,Sacramento,California,"[38.5815719, -121.4943996]",38.5815719,-121.4943996
+24,Edge North,Yellowknife,Canada,"[62.4539717, -114.3717887]",62.4539717,-114.3717887
+25,The Sprawl,Calgary,Canada,"[51.0486151, -114.0708459]",51.0486151,-114.0708459
+26,Aspen Journalism,Aspen,Colorado,"[39.1910983, -106.8175387]",39.1910983,-106.8175387
+27,Denverite,Denver,Colorado,"[39.7392358, -104.990251]",39.7392358,-104.990251
+28,Empowering Colorado,Denver,Colorado,"[39.7392358, -104.990251]",39.7392358,-104.990251
+29,Golden Today,Golden,Colorado,"[39.755543, -105.2210997]",39.755543,-105.2210997
+30,Connecticut Health Investigation Team,New Haven,Connecticut,"[41.308274, -72.9278835]",41.308274,-72.9278835
+31,CT Mirror,Hartford,Connecticut,"[41.7658043, -72.6733723]",41.7658043,-72.6733723
+32,CTNewsJunkie ,Hartford,Connecticut,"[41.7658043, -72.6733723]",41.7658043,-72.6733723
+33,Good Morning Wilton,Wilton,Connecticut,"[41.1953739, -73.4378988]",41.1953739,-73.4378988
+34,Lyme Line,Old Lyme,Connecticut,"[41.3159315, -72.3289715]",41.3159315,-72.3289715
+35,Nancy on Norwalk,Norwalk,Connecticut,"[41.11774399999999, -73.4081575]",41.11774399999999,-73.4081575
+36,New Haven Independent,New Haven,Connecticut,"[41.308274, -72.9278835]",41.308274,-72.9278835
+37,Old Saybrook Now,Old Saybrook,Connecticut,"[41.2960159, -72.38453009999999]",41.2960159,-72.38453009999999
+38,Valley Independent Sentinel,Derby,Connecticut,"[37.5455735, -97.2689331]",37.5455735,-97.2689331
+39,Valley News Now,Essex,Connecticut,"[41.5094, -72.7912]",41.5094,-72.7912
+40,We-Ha.com,West Hartford,Connecticut,"[41.7620842, -72.7420151]",41.7620842,-72.7420151
+41,Westport Now,Westport ,Connecticut,"[39.0569468, -94.5954715]",39.0569468,-94.5954715
+42,Delaware Business Now,Newark,Delaware,"[40.735657, -74.1723667]",40.735657,-74.1723667
+43,Technical.ly Delaware,Delaware,Delaware,"[38.9108325, -75.52766989999999]",38.9108325,-75.52766989999999
+44,Apopka Voice,Apopka,Florida,"[28.6934076, -81.5322149]",28.6934076,-81.5322149
+45,LKLD Now,Lakeland,Florida,"[28.0394654, -81.9498042]",28.0394654,-81.9498042
+46,The New Tropic,Miami,Florida,"[25.7616798, -80.1917902]",25.7616798,-80.1917902
+47,Vero Communique,Vero Beach,Florida,"[27.6386434, -80.39727359999999]",27.6386434,-80.39727359999999
+48,Cobb County Courier,Smyrna,Georgia,"[33.8839926, -84.51437609999999]",33.8839926,-84.51437609999999
+49,Decaturish,Decatur,Georgia,"[33.7748275, -84.2963123]",33.7748275,-84.2963123
+50,East Cobb News,Marietta,Georgia,"[33.95260200000001, -84.5499327]",33.95260200000001,-84.5499327
+51,Monroe Local,Monroe,Georgia,"[37.09024, -95.712891]",37.09024,-95.712891
+52,Now Habersham,Clarksville,Georgia,"[36.5297706, -87.3594528]",36.5297706,-87.3594528
+53,Project Q Atlanta,Atlanta,Georgia,"[33.7489954, -84.3879824]",33.7489954,-84.3879824
+54,Honolulu Civil Beat,Honolulu,Hawaii,"[21.3069444, -157.8583333]",21.3069444,-157.8583333
+55,Austin Talks,Chicago,Illinois,"[41.8781136, -87.6297982]",41.8781136,-87.6297982
+56,Chicago Reporter,Chicago,Illinois,"[41.8781136, -87.6297982]",41.8781136,-87.6297982
+57,Daily North Shore,Highwood,Illinois,"[42.1997468, -87.80923349999999]",42.1997468,-87.80923349999999
+58,Elmhurst Titan,Elmhurst,Illinois,"[41.8994744, -87.9403418]",41.8994744,-87.9403418
+59,eNews Park Forest,Park Forest,Illinois,"[41.4914236, -87.6744891]",41.4914236,-87.6744891
+60,Evanston Now,Evanston,Illinois,"[42.0450722, -87.68769689999999]",42.0450722,-87.68769689999999
+61,Happenstance,Chicago,Illinois,"[41.8781136, -87.6297982]",41.8781136,-87.6297982
+62,Metamora Herald,Metamora,Illinois,"[39.4466872, -85.1271907]",39.4466872,-85.1271907
+63,Urban Broadcast Media,Chicago,Illinois,"[41.8781136, -87.6297982]",41.8781136,-87.6297982
+64,HSJ Online,Hope,Indiana,"[36.6564059, -95.1609793]",36.6564059,-95.1609793
+65,NUVO,Indianapolis,Indiana,"[39.768403, -86.158068]",39.768403,-86.158068
+66,Iowa Watch,Iowa City,Iowa,"[41.6611277, -91.5301683]",41.6611277,-91.5301683
+67,Oscaloosa News,Oskaloosa,Iowa,"[41.2916728, -92.6493595]",41.2916728,-92.6493595
+68,Shawnee Mission Post,Shawnee,Kansas,"[35.3272928, -96.9253004]",35.3272928,-96.9253004
+69,KY Forward,Edgewood,Kentucky,"[43.060689, -89.423378]",43.060689,-89.423378
+70,Nelson County Gazette,Cox's Creek,Kentucky,"[37.8989742, -85.4733533]",37.8989742,-85.4733533
+71,Northern Kentucky Tribune,Edgewood,Kentucky,"[43.060689, -89.423378]",43.060689,-89.423378
+72,Ohio County Monitor,Beaver Dam,Kentucky,"[37.09024, -95.712891]",37.09024,-95.712891
+73,Gentilly Messenger,New Orleans,Louisiana,"[29.95106579999999, -90.0715323]",29.95106579999999,-90.0715323
+74,Mid-City Messenger,New Orleans,Louisiana,"[29.95106579999999, -90.0715323]",29.95106579999999,-90.0715323
+75,The Lens NOLA,New Orleans,Louisiana,"[29.95106579999999, -90.0715323]",29.95106579999999,-90.0715323
+76,Uptown Messenger,New Orleans,Louisiana,"[29.95106579999999, -90.0715323]",29.95106579999999,-90.0715323
+77,Fiddlehead Focus,Madawaska,Maine,"[47.35531539999999, -68.3217027]",47.35531539999999,-68.3217027
+78,Bethesda Beat,Bethesda,Maryland,"[38.984652, -77.0947092]",38.984652,-77.0947092
+79,Germantown Pulse,Germantown,Maryland,"[39.1731621, -77.2716502]",39.1731621,-77.2716502
+80,SouthBMore.com,Baltimore,Maryland,"[39.2903848, -76.6121893]",39.2903848,-76.6121893
+81,Technical.ly Baltimore,Baltimore,Maryland,"[39.2903848, -76.6121893]",39.2903848,-76.6121893
+82,Banyan Project,Haverhill,Massachusetts,"[42.7762015, -71.0772796]",42.7762015,-71.0772796
+83,Cambridge Day,Cambridge,Massachusetts,"[42.3751, -71.10559999999998]",42.3751,-71.10559999999998
+84,Greylock Glass,Williamstown,Massachusetts,"[42.7120196, -73.20368979999999]",42.7120196,-73.20368979999999
+85,iBerkshires,North Adams,Massachusetts,"[42.70091499999999, -73.1087148]",42.70091499999999,-73.1087148
+86,Jamaica Plain News,Jamaica Plain,Massachusetts,"[42.3097365, -71.1151431]",42.3097365,-71.1151431
+87,Localne.ws,Rowley,Massachusetts,"[42.7167483, -70.8787277]",42.7167483,-70.8787277
+88,Manomet Current,Plymouth,Massachusetts,"[41.9584457, -70.6672621]",41.9584457,-70.6672621
+89,North End Waterfront,Boston,Massachusetts,"[42.3600825, -71.0588801]",42.3600825,-71.0588801
+90,Open Media Boston,Boston,Massachusetts,"[42.3600825, -71.0588801]",42.3600825,-71.0588801
+91,Swellesley Report,Wellesley,Massachusetts,"[42.296797, -71.29238769999999]",42.296797,-71.29238769999999
+92,The Berkshire Edge,Pittsfield,Massachusetts,"[42.4500845, -73.2453824]",42.4500845,-73.2453824
+93,The Plymouth Line,Plymouth,Massachusetts,"[41.9584457, -70.6672621]",41.9584457,-70.6672621
+94,Universal Hub,Boston,Massachusetts,"[42.3600825, -71.0588801]",42.3600825,-71.0588801
+95,Worcester Sun,Worcester,Massachusetts,"[42.2625932, -71.8022934]",42.2625932,-71.8022934
+96,Your Arlington,Arlington,Massachusetts,"[32.735687, -97.10806559999999]",32.735687,-97.10806559999999
+97,East Lansing Info,East Lansing,Michigan,"[42.7369792, -84.48386540000001]",42.7369792,-84.48386540000001
+98,Farmington Voice,Farmington,Michigan,"[36.72805830000001, -108.2186856]",36.72805830000001,-108.2186856
+99,Flint Beat,Flint,Michigan,"[43.0125274, -83.6874562]",43.0125274,-83.6874562
+100,GR Kids,Grand Rapids,Michigan,"[42.9633599, -85.6680863]",42.9633599,-85.6680863
+101,Local Spins,Grand Rapids,Michigan,"[42.9633599, -85.6680863]",42.9633599,-85.6680863
+102,Redford Sentinel,Livonia,Michigan,"[42.36837, -83.35270969999999]",42.36837,-83.35270969999999
+103,MinnPost,Minneapolis,Minnesota,"[44.977753, -93.2650108]",44.977753,-93.2650108
+104,North Wright County Today,Albertville,Minnesota,"[45.2312337, -93.6687657]",45.2312337,-93.6687657
+105,Stillwater Current,Stillwater,Minnesota,"[45.056004, -92.80884429999999]",45.056004,-92.80884429999999
+106,Mississippi Today,Ridgeland,Mississippi,"[32.4284761, -90.1323087]",32.4284761,-90.1323087
+107,70 West Sentinel,Josephville,Missouri,"[38.8428292, -90.7965183]",38.8428292,-90.7965183
+108,Columbia Heartbeat,Columbia,Missouri,"[36.1335816, -95.95158529999999]",36.1335816,-95.95158529999999
+109,The Electric,Great Falls,Montana,"[38.9987208, -77.2538699]",38.9987208,-77.2538699
+110,Carson Now,Carson,Nevada,"[33.8316745, -118.281693]",33.8316745,-118.281693
+111,Sagebrush Rider,Silver Springs,Nevada,"[29.2180314, -82.05614249999999]",29.2180314,-82.05614249999999
+112,South Tahoe Now,Lake Tahoe,Nevada,"[39.0968493, -120.0323507]",39.0968493,-120.0323507
+113,This is Reno,Reno,Nevada,"[39.5296329, -119.8138027]",39.5296329,-119.8138027
+114,Manchester Ink Link,Manchester,New Hampshire,"[42.9956, -71.45479999999998]",42.9956,-71.45479999999998
+115,Amboy Guardian,Perth Amboy,New Jersey,"[40.5067723, -74.2654234]",40.5067723,-74.2654234
+116,Baristanet,Montclair,New Jersey,"[40.8622558, -74.19780879999999]",40.8622558,-74.19780879999999
+117,Brick City Live,Newark,New Jersey,"[40.735657, -74.1723667]",40.735657,-74.1723667
+118,EWR Zone,Newark,New Jersey,"[40.735657, -74.1723667]",40.735657,-74.1723667
+119,Franklin Reporter & Advocate,Franklin,New Jersey,"[35.9250637, -86.8688899]",35.9250637,-86.8688899
+120,Glen Rock News Today,Glen Rock,New Jersey,"[40.9628758, -74.1329207]",40.9628758,-74.1329207
+121,My Verona NJ,Verona,New Jersey,"[40.8298, -74.24009999999998]",40.8298,-74.24009999999998
+122,New Jersey Property Tax Reporter,Montclair,New Jersey,"[40.8622558, -74.19780879999999]",40.8622558,-74.19780879999999
+123,Newark Pulse,Newark,New Jersey,"[40.735657, -74.1723667]",40.735657,-74.1723667
+124,NJNext.com,Maplewood,New Jersey,"[36.0747448, -95.90585089999999]",36.0747448,-95.90585089999999
+125,Redbank Green,Redbank,New Jersey,"[40.3470543, -74.0643065]",40.3470543,-74.0643065
+126,Route 40 News,Margate City,New Jersey,"[39.330260, -74.498490]",39.33026,-74.49849
+127,Village Green,Maplewood,New Jersey,"[36.0747448, -95.90585089999999]",36.0747448,-95.90585089999999
+128,Grant County Beat,Silver City,New Mexico,"[32.770075, -108.280326]",32.770075,-108.280326
+129,New Mexico In-Depth,Rio Rancho,New Mexico,"[35.2327544, -106.6630437]",35.2327544,-106.6630437
+130,Sangre de Cristo Chronicle,Red River,New Mexico,"[32.861623, -96.898349]",32.861623,-96.898349
+131,Bellport.com,Bellport,New York,"[40.75704289999999, -72.9392727]",40.75704289999999,-72.9392727
+132,BK Reader,New York,New York,"[40.7127753, -74.0059728]",40.7127753,-74.0059728
+133,BKLYNER,Brooklyn,New York,"[40.6781784, -73.9441579]",40.6781784,-73.9441579
+134,Cheektowaga Chronicle,Cheektowaga,New York,"[42.9071477, -78.7542892]",42.9071477,-78.7542892
+135,City Limits,New York,New York,"[40.7309, -73.98720000000003]",40.7309,-73.98720000000003
+136,Corner News Media,Brooklyn,New York,"[40.6781784, -73.9441579]",40.6781784,-73.9441579
+137,Cortland Voice,Cortland,New York,"[42.6011813, -76.1804843]",42.6011813,-76.1804843
+138,Delaware Currents,Port Jervis,New York,"[41.3750937, -74.692663]",41.3750937,-74.692663
+139,Greenpointers,Brooklyn,New York,"[40.6781784, -73.9441579]",40.6781784,-73.9441579
+140,Oswego County Today,Fulton,New York,"[38.84670819999999, -91.94795859999999]",38.84670819999999,-91.94795859999999
+141,Riverhead Local,Riverhead,New York,"[40.9170435, -72.66204019999999]",40.9170435,-72.66204019999999
+142,Roosevelt Islander Online,New York,New York,"[40.7127753, -74.0059728]",40.7127753,-74.0059728
+143,Southhold Local,Southhold,New York,"[41.06482219999999, -72.42619619999999]",41.06482219999999,-72.42619619999999
+144,Technical.ly Brooklyn,Brooklyn,New York,"[40.6781784, -73.9441579]",40.6781784,-73.9441579
+145,The Batavian,Batavia,New York,"[41.8500284, -88.3125738]",41.8500284,-88.3125738
+146,The Bridge BK,Brooklyn,New York,"[40.6781784, -73.9441579]",40.6781784,-73.9441579
+147,The Highlands Current,Cold Spring,New York,"[41.4200937, -73.954583]",41.4200937,-73.954583
+148,The Loop NY,Larchmont,New York,"[40.9278769, -73.75179829999999]",40.9278769,-73.75179829999999
+149,Uptown Collective,New York,New York,"[40.7127753, -74.0059728]",40.7127753,-74.0059728
+150,Watershed Post,Catskills,New York,"[42.0092908, -74.3821116]",42.0092908,-74.3821116
+151,West Chester Hispano,White Plains,New York,"[41.03398620000001, -73.7629097]",41.03398620000001,-73.7629097
+152,Carolina Public Press,Asheville,North Carolina,"[35.5950581, -82.5514869]",35.5950581,-82.5514869
+153,Charlotte Agenda,Charlotte,North Carolina,"[35.2270869, -80.8431267]",35.2270869,-80.8431267
+154,New Bern Now,New Bern,North Carolina,"[35.108493, -77.04411429999999]",35.108493,-77.04411429999999
+155,North Carolina Health News,Chapel Hill,North Carolina,"[35.9131996, -79.0558445]",35.9131996,-79.0558445
+156,Q City Metro,Charlotte,North Carolina,"[35.2270869, -80.8431267]",35.2270869,-80.8431267
+157,365 Cincinatti,Cincinatti,Ohio,"[39.1031182, -84.5120196]",39.1031182,-84.5120196
+158,Clutch MOV,Marietta,Ohio,"[33.95260200000001, -84.5499327]",33.95260200000001,-84.5499327
+159,Columbus Underground,Columbus,Ohio,"[39.9611755, -82.99879419999999]",39.9611755,-82.99879419999999
+160,Gallia Herald,Gallia County,Ohio,"[38.8619254, -82.34518899999999]",38.8619254,-82.34518899999999
+161,Real Deal Press,Cleveland,Ohio,"[41.49932, -81.6943605]",41.49932,-81.6943605
+162,Richland Source,Mansfield,Ohio,"[32.5631924, -97.1416768]",32.5631924,-97.1416768
+163,Xenia Word,Xenia,Ohio,"[39.6847822, -83.9296526]",39.6847822,-83.9296526
+164,Luther Register,Luther,Oklahoma,"[35.653846, -97.1961492]",35.653846,-97.1961492
+165,Oklahoma City Free Press,Oklahoma City,Oklahoma,"[35.4675602, -97.5164276]",35.4675602,-97.5164276
+166,Oklahoma Watch,Norman,Oklahoma,"[35.2225668, -97.4394777]",35.2225668,-97.4394777
+167,The Frontier,Jenks,Oklahoma,"[36.0228734, -95.9683278]",36.0228734,-95.9683278
+168,Banks Post,Banks,Oregon,"[37.034678, -95.6590104]",37.034678,-95.6590104
+169,Bike Portland,Portland,Oregon,"[45.5154586, -122.6793461]",45.5154586,-122.6793461
+170,Gales Creek Journal,Gales Creek,Oregon,"[45.5865011, -123.2148333]",45.5865011,-123.2148333
+171,Billy Penn,Philadelphia,Pennsylvania,"[39.9525839, -75.1652215]",39.9525839,-75.1652215
+172,Levittown Now,Levittown,Pennsylvania,"[40.7259336, -73.51429209999999]",40.7259336,-73.51429209999999
+173,Onward State,State College,Pennsylvania,"[40.7933949, -77.8600012]",40.7933949,-77.8600012
+174,Passyunk Post,Philadelphia,Pennsylvania,"[39.9525839, -75.1652215]",39.9525839,-75.1652215
+175,Sanatoga Post,Sanatoga,Pennsylvania,"[40.2450981, -75.5951827]",40.2450981,-75.5951827
+176,Saucon Source,Hellertown,Pennsylvania,"[40.57954369999999, -75.34073459999999]",40.57954369999999,-75.34073459999999
+177,State College.com,State College,Pennsylvania,"[40.7933949, -77.8600012]",40.7933949,-77.8600012
+178,Technical.ly Philly,Philadelphia,Pennsylvania,"[39.9525839, -75.1652215]",39.9525839,-75.1652215
+179,The Incline,Pittsburgh,Pennsylvania,"[40.44062479999999, -79.9958864]",40.44062479999999,-79.9958864
+180,Upper Darby Sentinel,Upper Darby,Pennsylvania,"[39.957902, -75.3076883]",39.957902,-75.3076883
+181,East Greenwich News,East Greenwich,Rhode Isand,"[41.6342619, -71.51304449999999]",41.6342619,-71.51304449999999
+182,Eco RI,Providence,Rhode Island,"[41.8239891, -71.4128343]",41.8239891,-71.4128343
+183,WhatsUpNewp,Newport,Rhode Island,"[41.4901024, -71.3128285]",41.4901024,-71.3128285
+184,Sioux Falls Business,Sioux Falls,South Dakota,"[43.5473028, -96.728333]",43.5473028,-96.728333
+185,AntiochTenn.com,Antioch,Tennessee,"[42.4772418, -88.0956396]",42.4772418,-88.0956396
+186,Bellevue Home Page,Bellevue,Tennessee,"[47.6101497, -122.2015159]",47.6101497,-122.2015159
+187,Brentwood Home Page,Brentwood,Tennessee,"[37.931868, -121.6957863]",37.931868,-121.6957863
+188,Franklin Home Page,Franklin,Tennessee,"[35.9250637, -86.8688899]",35.9250637,-86.8688899
+189,Knoxville TN Today,Knoxville,Tennessee,"[35.9606384, -83.9207392]",35.9606384,-83.9207392
+190,Nolensville Home Page,Nolensville,Tennessee,"[35.9522852, -86.6694413]",35.9522852,-86.6694413
+191,Nooga.com,Chattanooga,Tennessee,"[35.0456297, -85.3096801]",35.0456297,-85.3096801
+192,Oak Ridge Today,Oak Ridge,Tennessee,"[36.0103561, -84.26964490000002]",36.0103561,-84.26964490000002
+193,Rutherford Source,Rutherford,Tennessee,"[40.826489, -74.10680909999999]",40.826489,-74.10680909999999
+194,Spring Hill Home Page,Spring Hill,Tennessee,"[28.4831682, -82.5369872]",28.4831682,-82.5369872
+195,Sumner Home Page,Sumner,Tennessee,"[47.2031566, -122.2403966]",47.2031566,-122.2403966
+196,Williamson Source,Williamson,Tennessee,"[37.6742682, -82.2773629]",37.6742682,-82.2773629
+197,Austin Monitor,Austin,Texas,"[30.267153, -97.7430608]",30.267153,-97.7430608
+198,Covering Katy,Katy,Texas,"[29.7857765, -95.8245093]",29.7857765,-95.8245093
+199,Latina Lista,Dallas,Texas,"[32.7766642, -96.79698789999999]",32.7766642,-96.79698789999999
+200,Local News Only,Colleyville,Texas,"[32.8809603, -97.155012]",32.8809603,-97.155012
+201,NowCastSA,San Antonio,Texas,"[29.4241219, -98.49362819999999]",29.4241219,-98.49362819999999
+202,Paris Free Press,Paris,Texas,"[33.6609389, -95.555513]",33.6609389,-95.555513
+203,San Angelo Live,San Angelo,Texas,"[31.4637723, -100.4370375]",31.4637723,-100.4370375
+204,The Austin Bulldog,Austin,Texas,"[30.267153, -97.7430608]",30.267153,-97.7430608
+205,The Tyler Loop,Tyler,Texas,"[32.3512601, -95.30106239999999]",32.3512601,-95.30106239999999
+206,TXK Today,Texarkana,Texas,"[33.425125, -94.04768820000001]",33.425125,-94.04768820000001
+207,Lehi Free Press,Lehi,Utah,"[40.3916172, -111.8507662]",40.3916172,-111.8507662
+208,Chester Telegraph,Chester,Vermont,"[39.849557, -75.3557457]",39.849557,-75.3557457
+209,VT Digger,Montpelier,Vermont,"[38.2188244, -78.1684568]",38.2188244,-78.1684568
+210,ARL Now,Arlington,Virginia,"[32.735687, -97.10806559999999]",32.735687,-97.10806559999999
+211,Bristow Beat,Bristow,Virginia,"[35.8306334, -96.39111799999999]",35.8306334,-96.39111799999999
+212,Charlottesville Tomorrow,Charlottesville,Virginia,"[38.0293059, -78.47667810000002]",38.0293059,-78.47667810000002
+213,Covering the Corridor,Alexandria,Virginia,"[38.8051, -77.04700000000003]",38.8051,-77.04700000000003
+214,DC Commute Times,Arlngton,Virginia,"[32.735687, -97.10806559999999]",32.735687,-97.10806559999999
+215,Fredericksburg Today,Fredericksburg,Virginia,"[30.2752011, -98.8719843]",30.2752011,-98.8719843
+216,Potomac Local,Stafford,Virginia,"[38.4220687, -77.4083086]",38.4220687,-77.4083086
+217,Reston Now,Reston,Virginia,"[38.9586307, -77.35700279999999]",38.9586307,-77.35700279999999
+218,Royal Examiner,Front Royal,Virginia,"[38.9181671, -78.1944446]",38.9181671,-78.1944446
+219,B-Town Blog,Burien,Washington,"[47.4668384, -122.3405305]",47.4668384,-122.3405305
+220,Capitol Hill Seattle,Seattle,Washington,"[47.6062095, -122.3320708]",47.6062095,-122.3320708
+221,iLoveKent,Kent,Washington,"[41.1536674, -81.3578859]",41.1536674,-81.3578859
+222,Lynwood Today,Lynnwood,Washington,"[47.8209301, -122.3151314]",47.8209301,-122.3151314
+223,MLT News,Mountlake Terrace,Washington,"[47.7881528, -122.3087405]",47.7881528,-122.3087405
+224,My Edmonds News,Edmonds,Washington,"[47.8106521, -122.3773551]",47.8106521,-122.3773551
+225,South King Media,Burien,Washington,"[47.4668384, -122.3405305]",47.4668384,-122.3405305
+226,Spokane Faith and Values,Spokane,Washington,"[47.6587802, -117.4260465]",47.6587802,-117.4260465
+227,The Evergrey,Seattle,Washington,"[47.6062095, -122.3320708]",47.6062095,-122.3320708
+228,PoPville,Washington D.C.,Washington D.C.,"[38.9071923, -77.0368707]",38.9071923,-77.0368707
+229,Technical.ly D.C.,Washington D.C.,Washington D.C.,"[38.9071923, -77.0368707]",38.9071923,-77.0368707
+230,Madison 365,Madison,Wisconsin,"[43.0730517, -89.4012302]",43.0730517,-89.4012302
+231,Racine County Eye,Racine,Wisconsin,"[42.7261309, -87.78285230000002]",42.7261309,-87.78285230000002
+232,The Drag Report,Burlington,Wisconsin,"[36.135688, -95.91991159999999]",36.135688,-95.91991159999999
+233,Wausa Pilot and Review,Wausa,Wisconsin,"[42.4994468, -97.542007]",42.4994468,-97.542007
+234,West of the I,Salem,Wisconsin,"[42.51954, -70.8967155]",42.51954,-70.8967155
+235,Wis.Community,Menonomie,Wisconsin,"[44.8755183, -91.9193422]",44.8755183,-91.9193422
+236,Wisconsin Watch,Madison,Wisconsin,"[43.0730517, -89.4012302]",43.0730517,-89.4012302
+237,Sweetwater Now,Rock Springs,Wyoming,"[41.58746439999999, -109.2029043]",41.58746439999999,-109.2029043
