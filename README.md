@@ -1,5 +1,5 @@
 # The Knight Foundation (Summer 2019)
-"what is our impact on the state of local news?"
+"What is our impact on the state of local news?"
 
 This summer, I worked with the Journalism team at the Knight Foundation in Miami to study what success looks like and how to reproduce it in local news. 
 
